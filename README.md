@@ -1,46 +1,73 @@
-# Getting Started with Create React App
+# ToDo List Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## English
 
-## Available Scripts
+This pet project is a ToDo List Application that demonstrates the use of React for building user interfaces and showcases basic functionalities of a task management system. Users can efficiently manage their tasks, including features such as adding, editing, completing, and deleting tasks.
 
-In the project directory, you can run:
+Here's the full list of technologies used in the project:
 
-### `npm start`
+- `react` - A JavaScript library for building user interfaces.
+- `@mui/material` - A React component library that implements Material Design.
+- `typescript` - A superset of JavaScript that adds static types.
+- `gh-pages` - A package for deploying projects to GitHub Pages.
+- `localStorage` - A web storage feature for storing data in the browser.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### How to Run the Project
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/todo-list.git
+   cd todo-list
+   ```
 
-### `npm test`
+2. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. **Start the Development Server**:
+   ```bash
+   npm start
+   ```
 
-### `npm run build`
+4. **Open in Browser**:
+   Navigate to `http://localhost:3000` to view the application.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Русский
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Этот pet проект представляет собой приложение для управления задачами (ToDo List), которое демонстрирует использование React для создания пользовательских интерфейсов и показывает основные функции системы управления задачами. Пользователи могут эффективно управлять своими задачами, включая функции добавления, редактирования, выполнения и удаления задач.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Вот полный список использованных технологий в проекте:
 
-### `npm run eject`
+- `react` - Библиотека JavaScript для создания пользовательских интерфейсов.
+- `@mui/material` - Библиотека компонентов React, реализующая Material Design.
+- `typescript` - Надстройка над JavaScript, добавляющая статическую типизацию.
+- `gh-pages` - Пакет для развертывания проектов на GitHub Pages.
+- `localStorage` - Функция веб-хранения для сохранения данных в браузере.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Как запустить проект
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. **Клонируйте репозиторий**:
+   ```bash
+   git clone https://github.com/yourusername/todo-list.git
+   cd todo-list
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+2. **Установите зависимости**:
+   ```bash
+   npm install
+   ```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+3. **Запустите сервер разработки**:
+   ```bash
+   npm start
+   ```
 
-## Learn More
+4. **Откройте в браузере**:
+   Перейдите по адресу `http://localhost:3000`, чтобы увидеть приложение.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contacts
+#### **Github**
+- [@Zyxxie-creator](https://github.com/Zyxxie-creator)
+##### **Telegram**
+-  [@Zyxxie](https://t.me/Zyxxie)
