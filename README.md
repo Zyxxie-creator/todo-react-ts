@@ -1,5 +1,5 @@
 # ToDo List Application
-
+https://zyxxie-creator.github.io/todo-react-ts/
 ## English
 
 This pet project is a ToDo List Application that demonstrates the use of React for building user interfaces and showcases basic functionalities of a task management system. Users can efficiently manage their tasks, including features such as adding, editing, completing, and deleting tasks.
@@ -34,7 +34,7 @@ Here's the full list of technologies used in the project:
    Navigate to `http://localhost:3000` to view the application.
 
 ## Русский
-
+https://zyxxie-creator.github.io/todo-react-ts/
 Этот pet проект представляет собой приложение для управления задачами (ToDo List), которое демонстрирует использование React для создания пользовательских интерфейсов и показывает основные функции системы управления задачами. Пользователи могут эффективно управлять своими задачами, включая функции добавления, редактирования, выполнения и удаления задач.
 
 Вот полный список использованных технологий в проекте:
