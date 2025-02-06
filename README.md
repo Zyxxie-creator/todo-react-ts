@@ -16,7 +16,7 @@ Here's the full list of technologies used in the project:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Zyxxie-creator/todo-list.git
+   git clone https://github.com/Zyxxie-creator/todo-react-ts.git
    cd todo-list
    ```
 
@@ -49,7 +49,7 @@ Here's the full list of technologies used in the project:
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/Zyxxie-creator/todo-list.git
+   git clone https://github.com/Zyxxie-creator/todo-react-ts.git
    cd todo-list
    ```
 
